@@ -4,6 +4,7 @@ I'm currently working on cool mini compiler :)
 
 I'm currently learning STL & memory management in c++ :)
 
+C++ MY GOATTTT!!!!!!!!
 
 <!--
 **27afk/27afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
