@@ -1,4 +1,7 @@
 ## Hi there 👋
 
-I'm currently working on cool c++ projects
-And learning about computer architecture and assembly to use in tandem with my compiler.
+I'm currently working on cool c++ projects like finishing up my compiler
+- Fixing bugs
+- Adding STL
+- Finishing back end + optimizaiton
+Currently learning computer architecture :)
