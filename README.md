@@ -5,7 +5,7 @@ I'm currently working on cool c++ projects like finishing up my compiler
 - Adding STL
 - Finishing back end + optimizaiton
 
-Currently learning computer architecture, and machine learning :)
+Currently learning computer architecture, machine learning, and networking :)
 
 ME ( or who i want to be )  :
 - software engineer
